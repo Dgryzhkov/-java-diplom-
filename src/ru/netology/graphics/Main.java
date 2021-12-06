@@ -5,7 +5,7 @@ import ru.netology.graphics.server.GServer;
 
 import java.io.File;
 import java.io.PrintWriter;
-
+//start 6.12.2021
 public class Main {
     public static void main(String[] args) throws Exception {
         TextGraphicsConverter converter = null; // Создайте тут объект вашего класса конвертера
